@@ -3,3 +3,5 @@ passat b6
 engine: 2.0
 
 color: black
+
+color: white
